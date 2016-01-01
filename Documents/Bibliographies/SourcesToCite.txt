@@ -6,3 +6,12 @@ https://perswww.kuleuven.be/~u0036765/SISMID/practicals_files/RatesAndDates.pdf
 
 BEAST Website
 http://beast.bio.ed.ac.uk/
+
+HIV-1 subtypes
+http://www.aidsmap.com/HIV-1-subtypes/page/1322996/
+
+Great Explanation of Bootstrap
+https://www.researchgate.net/post/How_can_I_interpret_bootstrap_values_on_phylogenetic_trees_built_with_Maximum_Likelihood_method
+
+Origin of the HIV-1 group O epidemic in western lowland gorillas
+http://www.pnas.org/content/112/11/E1343.full.pdf

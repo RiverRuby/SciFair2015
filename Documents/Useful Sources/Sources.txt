@@ -1,2 +1,0 @@
-Great Explanation of Bootstrap
-https://www.researchgate.net/post/How_can_I_interpret_bootstrap_values_on_phylogenetic_trees_built_with_Maximum_Likelihood_method
