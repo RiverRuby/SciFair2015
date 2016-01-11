@@ -15,3 +15,12 @@ https://www.researchgate.net/post/How_can_I_interpret_bootstrap_values_on_phylog
 
 Origin of the HIV-1 group O epidemic in western lowland gorillas
 http://www.pnas.org/content/112/11/E1343.full.pdf
+
+An Introduction to Bayesian Inference of Phylogeny
+http://www.sciencemag.org/site/feature/data/1050262.pdf
+
+A Rough Guide to BEAST
+http://workshop.molecularevolution.org/molevolfiles/beast/BEAST14_MANUAL-7-6-07.pdf
+
+The State of Bayesian Phylogenetics
+http://www-personal.umich.edu/~josephwb/Resources/Brown_Bayesian_Paper.pdf

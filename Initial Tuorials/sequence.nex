@@ -1,0 +1,318 @@
+#NEXUS
+[saved by seaview on Sat Oct 17 14:34:56 2015]
+BEGIN DATA;
+  DIMENSIONS NTAX=17 NCHAR=868;
+  FORMAT DATATYPE=DNA
+  GAP=-
+  ;
+MATRIX
+[1] gi|405795385|gb|JX564707.1|
+------------------------------------------------------------
+----------------------------------------------caaggtttccgtag
+gtgaacctgcggaaggatcattgtcgaatcctgcaaagcagaacgacccgtgcacatgta
+ccaacaatctggctttgtagggatcgtgctttt-gttcgcgccctatgaagccttgtcga
+tgtgtg--ttcatggtgaccccttggggccctcgtggactttgcatcggca--caacaac
+aaacaccggcacggcatgtgccaaggaaaat-ttaacttaagaagggctcgtcccatgat
+gccccgttcgcggtgtgcgcattggacgtggc-ttctttgt--aatcataaacgactctc
+ggcaacggatatctcggctcacgcatcgatgaagaacgtagcaaaatgcgatacttggtg
+tgaattgcagaatcccgtgaaccatcgagtttttgaacgcaagttgcgcccgaagccatt
+cggccgagggcacgtctgcctgggcgtcacgcatcacgtcgcccccaccaacctttccct
+ttagggatttgtgtgttgggggcggagattggtctcccgtgc--ctttggtgcggttggc
+gaaaataagagtcccctttgacggacacacggctagtggtggttgataagaccctcgtct
+cgtgtcgtgtgttttgagtcataagggaagacatctttagatacccc-aacgtgttgtct
+tttgatgacgcttcgatcgcgaccccaggtcaggcgggactacccgctgagtttaa----
+----------------------------
+[2] gi|405795378|gb|JX564700.1|
+------------------------------------------------------------
+----------------------------------------------caaggtttccgtag
+gtgaacctgcggaaggatcattgtcgaatcctgcatagcagaacaaccagcgaacatgta
+ccaacaacgtggcatttttgagatcggattttcggtttgaacccaaagatgcctcgtcaa
+catgtgtgctccattgtcccctttttagg-tttgtggacttcatgttggca--caataac
+caaccccggcacggaatgtgccaaggaatacaaaaacataaaaatggcatgtacaatgat
+gccccattcgtggtgtgctaattggacgtggctttttttgt--aatcataaacgactctc
+ggcaacggatatctcggctcacgcatcgatgaagaacgtagcaaaatgcgatacttggtg
+tgaattgcagaatcccgtgaaccatcgagtttttgaacgcaagttgcgcccggagccact
+tggccgagggcacgtctgcctgggcgtcgcacatgtttaggcccctgatg----------
+----------tttaaataggggcggaaaatggtctcctgcac--tgttggtgctgttggc
+cgaaataggagtcacctttgacggatgcacgactagtggtggttgataagaccctcttat
+tgtgttgtgcatctcg------acgggaacgcctcttcaaaaatccc-atggtgttgtcg
+tttgatgacgcttacattgcgaccccag-tcacgcgggattacccgctgagtttaa----
+----------------------------
+[3] gi|16417637|gb|AF422116.1|
+------------------------------------------------------------
+---------------------------------------------------tttccgtag
+gtgaacctgcggaaggatcattgtcgaatcctgcaaagcagaacgacccgtgcacatgta
+ccaacaatttggctttgtagggatcgtgctttt-gttcgagccctatgaagcctcgtcga
+tgtgtg--ttcatggtgaccccttggggccctcatggactttgcatcggca--caacaac
+aaacaccggcacggcatgtgccaaggaaaat-ttaacttaagaaatgctcgtaccatgat
+gccccgttcgcggtgtgcgtattggacgtggc-ttctttga--aatcataaacgactctc
+ggcaacggatatntcggctcacgcatcgatgaagaacgtagcaaaatgcgatacttggtg
+tgaattgcagaatcccgtgaaccatcgagtttttgaacgcaagttgcgcccgaagccatt
+cggccgagggcacgtctgcctgggcgtcacgcatcacgtcgcccccaccaacccatccct
+ttagggattcgtgtgatgggggcggagattggtctcccgtgc--ctttggtgcggttggc
+gaaaataagagtcccctttgacggacacacggctagtggtggttgataagaccttcgtct
+cgtgtcgtgtgttatgagtcataagggaagacctctttagatacccc-aacgtgttgtct
+tttgatgacgcttcgatcgcgaccccaggtcaggcgggactacccgctgagtttaa----
+----------------------------
+[4] gi|12642279|gb|AF229260.1|
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------tcgaatcctgcaaagcagaacaaccagtgaacatgta
+ccaacaacgtggcatctttgtgatcggtcttttagtctgatcactaagatgccttgtcaa
+cacgtg--ctcatggtcgccctgtttgtg-gtcatggacttcgtgttggcaacatataac
+caaccccggcacggaacgtgccaaggaaaac-aaaacttgaaaacggcatgtacaatgat
+gccccattcgtggtgtgctaattggacgtggcttttttggt--aatcataaacgactctc
+ggcaacggatatctcggctcacgcatcgatgaagaacgtagcaaaatgcgatacttggtg
+tgaattgcagaatcccgtgaaccatcgagtttttgaacgcaagttgcgcccggagccatt
+tggccgagggcacgtctgcctgggcgccgcacgtgtttaggcccctgatg----------
+----------tttggattggggcggaaaatggcctccagcac--ccttggtgttgttggc
+tgaaataggagtcacctttgacggatgcacgactagtggtggttggtaagaccctcttat
+tgtgttgtgtatttcgagtcctaagggaatgcctctttaaaaaccct-gaggtgttgttg
+tttgatgacgcttaca--------------------------------------------
+----------------------------
+[5] gi|12642278|gb|AF229259.1|
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------tcgaatcctgcaaagcagaacaaccagtgaacatgta
+ccaacaacgtggcatctttgtgatcggtcttttagtttgatcactaagatgccttgtcaa
+cacgtg--ctcatggtcgccctgtttgtg-gtcatggacttcgtgttggcaacatataac
+caaccccggcacggaacgtgccaaggaaaac-aaaacttgaaaacggcatgtacaatgat
+gccccattcgtggtgtgctaattggacgtggcttttttggt--aatcataaacgactctc
+ggcaacggatatctcggctcacgcatcgatgaagaacgtagcaaaacgcgatacttggtg
+tgaattgcagaatcccgtgaaccatcgagtttttgaacgcaagttgcgcccggagccatt
+tggccgagggcacgtctgcctgggcgtcgcacgtgtttaggcccctgatg----------
+----------tttggattggggcggaaaatggcctccagcac--ccttggtgttgttggc
+tgaaataggagtcacctttgacggatgcacgactagtggtggttgataagaccctcttat
+tgtgttgtgtatttcgagtccttagggaatgccactttaaaaacccc-gaggtgttgttg
+tttgatgacgcttaca--------------------------------------------
+----------------------------
+[6] gi|12642277|gb|AF229258.1|
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------tcgaatcctgcatagcagaacaaccagtgaacatgta
+ccaacaatgtggcattttttagatcgtacttttggttcgatcctaaagatgccttgttaa
+catgtg--ctccattgtcacctttttagg-tatgtggacttcatgttggca--caataac
+caaccccggcacggaatgtgccaaggaatacaaaaacataaaaatgrcatgtacaatgac
+gccccattcgtggtgtgctaattggacgtggc-ttttttgt--aatcataaacgactctc
+ggcaacggatatctcggctcacgcatcgatgaagaacgtagcaaaatgcgatacttggtg
+tgaattgcagaatcccgtgaaccatcgagtttttgaacgcaagttgcgcccggagccatt
+tggccgagggcacgtctgcctgggcgtcgcacatgtttargcccccgatg----------
+----------tttaaatcagggcggaaaatggtctcctgcac--tgttggtgttgttgac
+cgaaataggagtcacctttgacggatgcacaactagtggtggttgataagaccctcttat
+tgtgttgtgcatctcg------acaggaacgcctcttcaaaaacccc-atggtgttgtcg
+tttgatgacgcttaba--------------------------------------------
+----------------------------
+[7] gi|111183216|gb|DQ826452.1|
+attagctcggtaagtgttaggatcgcggcgacgtgggcggttcgctgccggcgacgtcgc
+gagaaatccactgaaccttatcatttagaggaaggagaggtcgtaacaaggtttccgtag
+gtgaacctgcggaaggatcattgtcgaatcctgcaaagcagaacgacccgtgcacatgta
+ccaacaacttggctttgtagggaccgtgctttt-gttcgggccttatgaagccttgtcga
+tgtgtg--ttcatggtgaccccttggggccctcatggacttt-catcggca--caacaac
+aaacaccggcacggcatgtgccaaggaaaat-tgaacttaagatgggctcgcataatgat
+gcccctctctcggtgtgcacattgtactggtc-ctctcttt--agttaaaaacgactctc
+ggcaacggatatctcggctctcgcatcgatgaagaacgtagcgaaatgcgatacttggtg
+tgaattgcagaatcccgtgaaccatcgagtttttgaacgcaagttgcgcccaaagccttc
+gggtcgagggcacgtctgcctgggtgtcacgcatcacgtcgcccccaccaaccattccct
+ttagggatttgtgtgatgggggcggagattggtctcccgtgc--ctttggtgcggttggc
+gaaaataagagtcccctttgacggacacacggctagtggtggttgataagaccctcgtct
+cgtgtcgtgtgtt-tgagtcataagggaagacctctttagatacccc-aacgtgttgtct
+tttgatgatgcttcgatcgcgaccccaggtcaggcgggattacccgctgagtttaagcat
+atcaataagcggaggaaaagaaacttac
+[8] gi|164709916|gb|EU352240.1|
+-----------------------------------ggcggttcgctgccggcgacgtcgc
+gagaattccactgaaccttatcatttagaggaaggagaagtcgtaacaaggtttccgtag
+gtgaacctgcggaaggatcattgtcgaatcctgcaaagcagaacgacccgtgcacatgta
+ccaacaatctggctttgtagggaccgtgctttt-gttcgggccttatgaagccttgtcga
+tgtgtg--ttcatggtgaccccttggggccctcatggacttt-catcggca--caacaac
+aaacaccggcacggcatgtgccaaggaaaat-ttaacttaagaagggctcgtccaatgat
+gccccgttcgcggtgtgcgcattggacgtggc-ttctttgtaaaatcataaacgactctc
+ggcaacggatatctcggctcacgcatcgatgaagaacgtagcaaaatgcgatacttggtg
+tgaattgcagaatcccgtgaaccatcgagtttttgaacgcaagttgcgcccgaagccatt
+cggccgagggcacgtctgcctgggcgtcacgcatcacgtcgcccccaccaaccattccct
+ttagggatttgtgtgatgggggcggagattggtctcccgtgc--ctttggtgcggttggc
+gaaaataagagtcccctttgacggacacacggctagtggtggttgataagaccctcgtct
+cgtgtcgtgtgtt-tgagtcataagggaagacctcttcagatacccc-aacgtgttgtct
+tttgatgatgcttcgatcgcgaccccaggtcaggcgggactacccgctgagtttaagcat
+atcaataag-------------------
+[9] gi|164709915|gb|EU352239.1|
+-----------------------------------ggcggttcgctgccggcgacgtcgc
+gagaattccactgaaccttatcatttagaggaaggagaagtcgtaacaaggtttccgtag
+gtgaacctgcggaaggatcattgtcgaatcctgcaaagcagaacgacccgtgcacatgta
+ccaacaatctggctttgtagggatcgtgctttt-gttcgagccctatgaagccttgtcga
+tgtgtg--ttcatggtgaccccttggggccctcatggactttgcatcggca--taacaac
+aaacaccggcacggcatgtgccaaggaaaat-ttaacttaagaagggctcgtacgatgat
+gccccgttcgcggtgtgcgcattggacgtggc-ttctttgt--aatcataaacgactctc
+ggcaacggatatctcggctcacgcatcgatgaagaacgtagcaaaatgcgatacttggtg
+tgaattgcagaatcccgtgaaccatcgagtttttgaacgcaagttgcgcccgaagccatt
+cggccgagggcacgtctgcctgggcgtcacgcatcacgtcgcccccaccaacctttccct
+ttagggattcgtgtgatgggggcggagattggtctcccgtgc--ctttggtgcggttggc
+gaaaataagagtcccctttgacggacacacggctagtggtggttgataagaccctcgtct
+cgtgtcgtgtgttttgagtcataagggaagacatctttagatacccc-aacgtgttgtct
+tttgatgacgcttcgatcgcgaccccaggtcaggcgggactacccgctgagtttaagcat
+atcaataag-------------------
+[10] gi|238695936|gb|FJ980326.1|
+------------------------------------------------------------
+-------------------------------------aagtcgtaacaaggtttccgtag
+gtgaacctgcggaaggatcattgtcgaatcctgcaaagcagaacgacccgtgcacatgta
+ccaacaatctggctttgtagggaccgtgctttt-gttcgggccttatgaagccttgtcga
+tgtgtg--ttcatggtgaccccttggggccctcatggacttt-catcggca--caacaac
+aaacaccggcacggcatgtgccaaggaaaat-ttaacttaagaagggctcgtacaatgat
+gccccgttcgcggtgtgcacattggacgtggc-ttctttat--aatcataaacgactctc
+ggcaacggatatctcggctcacgcatcgatgaagaacgtagcaaaatgcgatacttggtg
+tgaattgcagaatcccgtgaaccatcgagtttttgaacgcaagttgcgcccgaagccatt
+cggccgagggcacgtctgcctgggcgtcacgcatcacgtcgcccccaccaaccattccct
+ttagggatttgtgtgatgggggcggagattggtctcccgtgc--ctttggtgcggttggc
+gaaaataagagtcccctttgacggacacacggctagtggtggttgataagaccctcgtct
+cgtgtcgtgtgtt-tgagtcataagggaagacctctttagatacccc-aacgtgttgtct
+tttgatgatgcttcgatcgcgaccccaggtcaggcgggactacccgctgagtttaa----
+----------------------------
+[11] gi|238695935|gb|FJ980325.1|
+------------------------------------------------------------
+-------------------------------------aagtcgtaacaaggtttccgtag
+gtgaacctgcggaaggatcattgtcgaatcctgcaaagcagaacgacccgtgcacatgta
+ccaacaatctggctttgtagggaccgtgctttt-gttcgggccttatgaagccttgtcga
+tgtgtg--ttcatggtgaccccttggggccctcatggacttt-catcggca--caacaac
+aaacaccggcacggcatgtgccaaggaaaat-ttaacttaagaagggctcgtacaatgat
+gcctcgttcgcggtgtgcgcattggacgtggc-ttctttgt--aatcataaacgactctc
+ggcaacggatatctcggctcacgcatcgatgaagaacgtagcaaaatgcgatacttggtg
+tgaattgcagaatcccgtgaaccatcgagtttttgaacgcaagttgcgcccgaagccatt
+cggccgagggcacgtctgcctgggcgtcacgcatcacgtcgcccccaccaaccattccct
+ttagggatttgtgtgatgggggcggagattggtctcccgtgc--ctttggtgcggttggc
+gaaaataagagtcccctttgacggacacacggctagtggtggttgataagaccctcgtct
+cgtgtcgtgtgtt-tgagtcataagggaagacctctttagatacccc-aacgtgttgtct
+tttgatgatgcttcgatcgcgaccccaggtcaggcgggactacccgctgagtttaa----
+----------------------------
+[12] gi|4099218|gb|U84768.1|ASU84768
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------ttgtcgaatcctgcgtagcagaacgacctgtgaacatgta
+ctaacaatctagcttcatggtggtcgggcttct-gtttgatccctgtgaagccttgtcgg
+tgtttg--ttcattgcgacc--ttcggggtctcatggatatttcatcggca--caacaac
+aaaccccggcacggcatgtgccaaggaaacc-taaactaaagaatggcacgtaccatgat
+gccccgcgagcggtgtgagaattgggcgtggc-tacttttt--attcataaacgactctc
+ggcaacggatatctc-gstcacgcatcgatgaagaacgtagcaaaatgcgatacttggtg
+tnnnnnnnnnnnnnncgtgaaccatcgagtttttgaacgcaagttgcgcccgaagccatt
+cggctgagggcacgcctgcctgggcgtcacgcatcacgtcgcccccaccaagcctcccct
+taggggatgcgttggatggtggtggagattggcctcccgtgc--ccttggtgtggttggc
+taaaa-aggagtccccattgatggacgcacgactagtggtggttgataagaccttcgtct
+tgtgtcgtgtgttttgagtcgtaagggtagatgttttttaatacccc-catgtgttgtct
+tgtggtgatacttcgatcgcgacccca---------------------------------
+----------------------------
+[13] gi|4099217|gb|U84767.1|AOU84767
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------cctgcacagcagaatgacctgcgaacatgta
+ctaacaatcaggcttcat-gtgatcaggcttat-gtttgattcttgtggagccttgtcgg
+tgtttg--ttcattgcgacccatttagggtctcatggacttttcatc-gcg--caacaac
+aaaccccggcacggcatgtgccaaggaaacc-taaactaaagagtgacacgtaccatgat
+ttccmgcttgcggtgttagtattggacgtgga-tgcttggt--attcataaacgactctc
+ggcaacggatatctc-gstcacgcatcgatgaagaacgtagcaaaatgcgatacttggtg
+tgaattgcagaatcccgtgaaccatcgagtttttgaacgcaagttgcgcccgaagccatt
+cggtcgagggcacgcctgcctgggcgtcacgcatcatgtcacccccaccaagcttcctgt
+catgggatgcactggatggtggtggagaatggcctcccgtgttattttggcgcggttggc
+taaaataggagtccttattgacgcatgcgcgactattggtggttgaaaagaccctcgtct
+tgtgtcgtgcatttagagtcgtaaggtaagatgcttttgaatacccctcatgtgttgtct
+tttggtggcacttcgatcgcgaccccaggtcag---------------------------
+----------------------------
+[14] gi|4099215|gb|U84766.1|AJU84766
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------tgtcgaatcctgcatagcagaacgacccgcgaacttgta
+tcaacattccagtttcatggtggtcgggctttt-gtttgatccctgtgaatccttgtcgg
+tgtttg--ttcattgcgacccttttggggtctcatggacttttcatcggca--caacaac
+aaaccccggcacggcatgtgccaaggaaacc-taaactaaagaatggcacgtaccatgat
+gccccgcttgcggtgtgaggattggacgtggc-tactttgt--attcataaacgactctc
+ggcaacggatatctc-gstcacgcatcgatgaagaacgtagcaaaatgcgatacttggtg
+tnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngaagccatt
+tggccgagggcacgcctgcctgggcgtcacgcatcacgtcacccccaccaagcctatcct
+taggggatgcctttgatgggggtggagattggcctcctgtgc--tcttggtgcggttggc
+taaaacagcagtccccattggcagacgcacgactagtggtggttgataagaccctcgtct
+tgtgtcgtgcgttttgagtcgtaagggaagacgtttttgagtaccct-catgtgttgtct
+tttggtgacactttgatcgcgaccccaggtcag---------------------------
+----------------------------
+[15] gi|289066422|gb|GQ434490.1|
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------cgcatcacgtcgcccccaccaaccattccct
+ttagggatttgtgtgatgggggcggagattggtctcccgtgc--ctttggtgcggttggc
+gaaaataagagtcccctttgacggacacacggctagtggtggttgataagaccctcgtct
+cgtgtcgtgtgtt-tgagtcataagggaagacctctttagatacccc-aacgtgttgtct
+tttgatgatgcttcgatcg-----------------------------------------
+----------------------------
+[16] gi|289066421|gb|GQ434489.1|
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------cgcatcacgtcgcccccaccaaccattccct
+ttagggatttgtgtgatgggggcggagattggtctcccgtgc--ctttggtgcggttggc
+gaaaataagagtcccctttgacggacacacggctagtggtggttgataagaccctcgtct
+cgtgtcgtgtgtt-tgagtcataagggaagacctctttagatacccc-aacgtgttgtct
+tttgatgatgcttcgatcg-----------------------------------------
+----------------------------
+[17] gi|289066420|gb|GQ434488.1|
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------cgcatcacgtcgcccccaccaaccattccct
+ttagggatttgtgtgatgggggcggagattggtctcccgtgc--ctttggtgcggttggc
+gaaaataagagtcccctttgacggacacacggctagtggtggttgataagaccctcgtct
+cgtgtcgtgtgtt-tgagtcataagggaagacctctttagatacccc-aacgtgttgtct
+tttgatgatgcttcgatcg-----------------------------------------
+----------------------------
+;
+END;
+BEGIN NOTES;
+  TEXT TAXON=1 TEXT='Centipeda minima isolate ASL462 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+';
+  TEXT TAXON=2 TEXT='Athroisma laciniatum isolate ASL528 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+';
+  TEXT TAXON=3 TEXT='Centipeda cunninghamii 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+';
+  TEXT TAXON=4 TEXT='Blepharispermum zanguebaricum isolate 2 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+';
+  TEXT TAXON=5 TEXT='Blepharispermum zanguebaricum isolate 1 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+';
+  TEXT TAXON=6 TEXT='Athroisma hastifolium internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence
+';
+  TEXT TAXON=7 TEXT='Centipeda minima voucher TNM S108642 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence
+';
+  TEXT TAXON=8 TEXT='Centipeda minima subsp. minima isolate 00901F 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+';
+  TEXT TAXON=9 TEXT='Centipeda aotearoana isolate 01301D 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+';
+  TEXT TAXON=10 TEXT='Centipeda minima voucher PS0620MT03 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+';
+  TEXT TAXON=11 TEXT='Centipeda minima voucher PS0620MT01 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+';
+  TEXT TAXON=12 TEXT='Anisopappus smutsii internal transcribed spacer ITS1, 5.8S ribosomal RNA gene, and internal transcribed spacer ITS2
+';
+  TEXT TAXON=13 TEXT='Anisopappus oliveranus internal transcribed spacer ITS1, 5.8S ribosomal RNA gene, and internal transcribed spacer ITS2
+';
+  TEXT TAXON=14 TEXT='Anisopappus junodii internal transcribed spacer ITS1, 5.8S ribosomal RNA gene, and internal transcribed spacer ITS2
+';
+  TEXT TAXON=15 TEXT='Centipeda minima voucher PS0620MT04 internal transcribed spacer 2, partial sequence
+';
+  TEXT TAXON=16 TEXT='Centipeda minima voucher PS0620MT03 internal transcribed spacer 2, partial sequence
+';
+  TEXT TAXON=17 TEXT='Centipeda minima voucher PS0620MT01 internal transcribed spacer 2, partial sequence
+';
+END;
