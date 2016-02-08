@@ -1,11 +1,11 @@
 #NEXUS 
 
-Begin trees;  [Treefile saved Sat Feb 06 01:55:57 2016]
+Begin trees;  [Treefile saved Sat Feb 06 18:30:57 2016]
 [!
 >Data file = cpzcombined-1-[a].nex
 >Bootstrap method with heuristic search:
 >  Number of bootstrap replicates = 100
->  Starting seed = 1053439193
+>  Starting seed = 1796286026
 >  Number of characters resampled in each replicate = 15739
 >  Optimality criterion = parsimony
 >    Character-status summary:
@@ -18,9 +18,7 @@ Begin trees;  [Treefile saved Sat Feb 06 01:55:57 2016]
 >    Gaps are treated as "missing"
 >    Multistate taxa interpreted as uncertainty
 >  Starting tree(s) obtained via stepwise addition
->    Addition sequence: random
->    Number of replicates = 10
->    Starting seed = 956853801
+>    Addition sequence: simple (reference taxon = D.SN.1990.SE365.AB485649)
 >    Number of trees held at each step = 1
 >  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
 >    Steepest descent option not in effect
@@ -32,8 +30,7 @@ Begin trees;  [Treefile saved Sat Feb 06 01:55:57 2016]
 >  Trees are unrooted
 >
 >  100 bootstrap replicates completed
->  Searches were terminated by time or rearrangement limit in 100 replicates
->  Time used = 00:02:12 (CPU time = 00:02:12.1)
+>  Time used = 39.55 sec (CPU time = 39.34 sec)
 ]
 	Translate
 		1 D.SN.1990.SE365.AB485649,
@@ -92,5 +89,5 @@ Begin trees;  [Treefile saved Sat Feb 06 01:55:57 2016]
 		54 SMM.CI.1979.SIVsmCI2.JX860430,
 		55 SMM.US.2005.D215.JX860413
 		;
-tree 'PAUP_1' = [&U] (1,(2,3)100,(((4,5)91,6)100,(((7,(8,9)97)100,((((((10,(11,12)100)100,(34,35)100)100,(((((((((((13,16)100,15)100,14)100,((17,19)100,18)100)100,54)59.333,((50,53)96.5,52,55)100)99,51)100,(36,39)100)97.667,(((37,38)100,49)100,(40,41)100)98)67.167,((42,48)100,((((43,44)100,46)100,45)100,47)100)100)100,(((23,28)100,(26,27)100)100,32)100)100)100,(22,31)63.5)65.5,((24,33)100,(29,30)100)100)86.5,(20,21)100)56)100,25)100)100)100;
+tree 'PAUP_1' = [&U] (1:100,(2:100,3:100):100,(((4:100,5:100):85,6:100):100,(((7:100,(8:100,9:100):95):100,((((((10:100,(11:100,12:100):100):100,(34:100,35:100):100):100,(((((((((((13:100,16:100):100,15:100):100,14:100):100,((17:100,19:100):100,18:100):100):99,54:100):62.667,(((50:100,53:100):93.5,52:100):52.167,55:100):100):99,51:100):100,(36:100,39:100):100):99,(((37:100,38:100):100,49:100):100,(40:100,41:100):100):95.667):60.667,((42:100,48:100):100,((((43:100,44:100):100,46:100):100,45:100):100,47:100):100):100):100,(((23:100,28:100):100,(26:100,27:100):100):100,32:100):100):100):100,(22:100,31:100):63.5):75,((24:100,33:100):100,(29:100,30:100):100):100):77.5,(20:100,21:100):100):63):100,25:100):100):100);
 End;

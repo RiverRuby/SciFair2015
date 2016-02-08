@@ -1,0 +1,134 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=55;
+	taxlabels
+	'D.SN.1990.SE365.AB485649'
+	'D.KE.2001.NKU3006.AF457090'
+	'D.UG.1999.99UGA07412.AF484477'
+	'G.GH.2003.GHNJ175.AB231893'
+	'G.KE.1993.HH8793.AB485662'
+	'G.CM.2004.178_15.FJ389363'
+	'N.CM.1995.YBF30.AJ006022'
+	'N.CM.2002.DJO0131.AY532635'
+	'N.CM.2004.04CM_1015_04.DQ017382'
+	'O.CM.1994.BCF06.AB485666'
+	'O.SN.1999.99SE-MP1299.AJ302646'
+	'O.GA.2010.10Gab1190.JX245014'
+	'GOR.CM.2007.SIVgorCP2135con.FJ424863'
+	'GOR.CM.2012.SIVgor-BPID1.KP004989'
+	'A.GW.1987.CAM2CG.D00835'
+	'A.SN.1985.ROD_patent.BD131284'
+	'A.SN.1986.ST_JSP4_27.M31113'
+	'A.CI.1988.UC2.U38293'
+	'B.CI.1988.UC1.L07625'
+	'B.CI.-.20_57.AB485671'
+	'B.GH.1986.D205_ALT.X61240'
+	'SMM.CI.1979.SIVsmCI2.JX860430'
+	'SMM.US.2011.SIVsmE660-FL6.JQ864085'
+	'SMM.US.2004.M940.JX860423'
+	'SMM.LR.1989.SIVsmLIB1.JX860431'
+	'SMM.US.2005.D215.JX860413'
+	'SMM.SL.1992.SL92B.AF334679'
+	'VER.KE.-.TYO1-patent.DJ048201'
+	'TAN.UG.-.SIVagmTAN1.U58991'
+	'SUN.GA.1998.L14.AF131870'
+	'LST.KE.-.lho7.AF075269'
+	'MND-1.GA.-.MNDGB1.M27470'
+	'DRL.-.-.FAO.AY159321'
+	'MND-2.-.-.5440.AY159322'
+	'DEN.CD.-.CD1_CMO580407.AJ580407'
+	'DEB.CM.2004.SIVdeb04CMPF3061.FJ919724'
+	'MUS-1.CM.2001.CM1239.EF070330'
+	'MUS-2.CM.2001.CM1246.EF070329'
+	'GSN.CM.1999.CN166.AF468659'
+	'MON.CM.1999.L1_99CML1.AY340701'
+	'TAL.CM.2000.266.AY655744'
+	'CPZ.TZ.2000.TAN1.AF447763'
+	'CPZ.TZ.2000.TAN1.EF394356'
+	'CPZ.TZ.2001.TAN2_69.DQ374657'
+	'CPZ.TZ.2002.TAN3_1.DQ374658'
+	'CPZ.CD.2006.BF1167.JQ866001'
+	'CPZ.GA.1988.SIVcpzGAB2.AF382828'
+	'CPZ.GA.2006.SIVcpzGab4.GQ217539'
+	'CPZ.CM.2001.SIVcpzCAM13.AY169968'
+	'CPZ.GA.1988.GAB1.X52154'
+	'CPZ.CM.2004.Ptt_04Cam155.FR686510'
+	'CPZ.CM.2009.Ptt_09Cam155.FR686511'
+	'CPZ.US.1985.US_Marilyn.AF103818'
+	'CPZ.CM.1998.CAM3.AF115393'
+	'CPZ.CM.2005.SIVcpzMB66.DQ373063'
+;
+end;
+
+begin trees;
+	tree PAUP_1 = [&U] ('D.SN.1990.SE365.AB485649'[&!rotate=false,!color=#-16777216]:100.0,('D.KE.2001.NKU3006.AF457090'[&!rotate=false,!color=#-16777216]:100.0,'D.UG.1999.99UGA07412.AF484477'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0,((('G.GH.2003.GHNJ175.AB231893'[&!rotate=false,!color=#-16777216]:100.0,'G.KE.1993.HH8793.AB485662'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:85.0,'G.CM.2004.178_15.FJ389363'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0,((('N.CM.1995.YBF30.AJ006022'[&!rotate=false,!color=#-16777216]:100.0,('N.CM.2002.DJO0131.AY532635'[&!rotate=false,!color=#-16777216]:100.0,'N.CM.2004.04CM_1015_04.DQ017382'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:95.0)[&!rotate=false,!color=#-16777216,!hilight={3,205.0,#-13421569}]:100.0,(((((('O.CM.1994.BCF06.AB485666'[&!rotate=false,!color=#-16777216]:100.0,('O.SN.1999.99SE-MP1299.AJ302646'[&!rotate=false,!color=#-16777216]:100.0,'O.GA.2010.10Gab1190.JX245014'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216,!hilight={3,415.5,#-3407668}]:100.0,('GOR.CM.2007.SIVgorCP2135con.FJ424863'[&!rotate=false,!color=#-16777216]:100.0,'GOR.CM.2012.SIVgor-BPID1.KP004989'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216,!hilight={2,515.5,#-65383}]:100.0)[&!rotate=false,!color=#-16777216]:100.0,((((((((((('A.GW.1987.CAM2CG.D00835'[&!rotate=false,!color=#-16777216]:100.0,'A.SN.1985.ROD_patent.BD131284'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0,'A.SN.1986.ST_JSP4_27.M31113'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0,'A.CI.1988.UC2.U38293'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216,!hilight={4,216.50000000000023,#-65536}]:100.0,(('B.CI.1988.UC1.L07625'[&!rotate=false]:100.0,'B.CI.-.20_57.AB485671'[&!rotate=false]:100.0)[&!rotate=false]:100.0,'B.GH.1986.D205_ALT.X61240'[&!rotate=false]:100.0)[&!rotate=false,!hilight={3,316.5000000000002,#-218130125}]:100.0)[&!rotate=false]:99.0,'SMM.CI.1979.SIVsmCI2.JX860430'[&!rotate=false]:100.0)[&!rotate=false]:62.667,((('SMM.US.2011.SIVsmE660-FL6.JQ864085'[&!rotate=false]:100.0,'SMM.US.2004.M940.JX860423'[&!rotate=false]:100.0)[&!rotate=false]:93.5,'SMM.LR.1989.SIVsmLIB1.JX860431'[&!rotate=false]:100.0)[&!rotate=false]:52.167,'SMM.US.2005.D215.JX860413'[&!rotate=false]:100.0)[&!rotate=false,!hilight={4,432.5000000000002,#-39373}]:100.0)[&!rotate=false]:99.0,'SMM.SL.1992.SL92B.AF334679'[&!rotate=false]:100.0)[&!rotate=false]:100.0,('VER.KE.-.TYO1-patent.DJ048201'[&!rotate=false,!color=#-16777216]:100.0,'TAN.UG.-.SIVagmTAN1.U58991'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216,!hilight={2,777.1670000000001,#-13210}]:100.0)[&!rotate=false]:99.0,((('SUN.GA.1998.L14.AF131870'[&!rotate=false]:100.0,'LST.KE.-.lho7.AF075269'[&!rotate=false]:100.0)[&!rotate=false]:100.0,'MND-1.GA.-.MNDGB1.M27470'[&!rotate=false]:100.0)[&!rotate=false,!hilight={3,776.1670000000001,#-39424}]:100.0,('DRL.-.-.FAO.AY159321'[&!rotate=false]:100.0,'MND-2.-.-.5440.AY159322'[&!rotate=false]:100.0)[&!rotate=false,!hilight={2,876.1670000000001,#-39424}]:100.0)[&!rotate=true,!hilight={5,776.1670000000001,#6710886}]:95.667)[&!rotate=true]:60.667,(('DEN.CD.-.CD1_CMO580407.AJ580407'[&!rotate=false,!color=#-16777216]:100.0,'DEB.CM.2004.SIVdeb04CMPF3061.FJ919724'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0,(((('MUS-1.CM.2001.CM1239.EF070330'[&!rotate=false,!color=#-16777216]:100.0,'MUS-2.CM.2001.CM1246.EF070329'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0,'GSN.CM.1999.CN166.AF468659'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0,'MON.CM.1999.L1_99CML1.AY340701'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0,'TAL.CM.2000.266.AY655744'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216,!hilight={7,415.5,#-13369549}]:100.0)[&!rotate=true]:100.0,((('CPZ.TZ.2000.TAN1.AF447763'[&!rotate=false]:100.0,'CPZ.TZ.2000.TAN1.EF394356'[&!rotate=false]:100.0)[&!rotate=false]:100.0,('CPZ.TZ.2001.TAN2_69.DQ374657'[&!rotate=false]:100.0,'CPZ.TZ.2002.TAN3_1.DQ374658'[&!rotate=false]:100.0)[&!rotate=false]:100.0)[&!rotate=false]:100.0,'CPZ.CD.2006.BF1167.JQ866001'[&!rotate=false]:100.0)[&!rotate=false]:100.0)[&!rotate=true,!color=#-16777216,!hilight={23,0.0,#-10066177}]:100.0)[&!rotate=true,!color=#-16777216]:100.0,('CPZ.GA.1988.SIVcpzGAB2.AF382828'[&!rotate=false,!color=#-16777216]:100.0,'CPZ.GA.2006.SIVcpzGab4.GQ217539'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:63.5)[&!rotate=true,!color=#-16777216]:75.0,(('CPZ.CM.2001.SIVcpzCAM13.AY169968'[&!rotate=false,!color=#-16777216]:100.0,'CPZ.GA.1988.GAB1.X52154'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0,('CPZ.CM.2004.Ptt_04Cam155.FR686510'[&!rotate=false,!color=#-16777216]:100.0,'CPZ.CM.2009.Ptt_09Cam155.FR686511'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=true,!color=#-16777216]:77.5,('CPZ.US.1985.US_Marilyn.AF103818'[&!rotate=false,!color=#-16777216]:100.0,'CPZ.CM.1998.CAM3.AF115393'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=true,!color=#-16777216]:63.0)[&!rotate=true,!color=#-16777216,!hilight={7,0.0,#-52429}]:100.0,'CPZ.CM.2005.SIVcpzMB66.DQ373063'[&!rotate=false,!color=#-16777216]:100.0)[&!rotate=true,!color=#-16777216]:100.0)[&!rotate=false,!color=#-16777216]:100.0);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="User Selection";
+	set appearance.backgroundColour=#-1;
+	set appearance.branchColorAttribute="User Selection";
+	set appearance.branchLineWidth=1.0;
+	set appearance.foregroundColour=#-16777216;
+	set appearance.selectionColour=#-2144520576;
+	set branchLabels.colorAttribute="User Selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set nodeBars.barWidth=4.0;
+	set nodeLabels.colorAttribute="User Selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=250.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleAxis.significantDigits=4;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set scaleBar.significantDigits=4;
+	set tipLabels.colorAttribute="User Selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="equal";
+end;
+
